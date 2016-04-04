@@ -1,0 +1,23 @@
+{
+  "name": "browser-mandrill-api-js",
+  "version": "1.0.38",
+  "description": "Mailchimp's official Mandrill JavaScript API",
+  "main": "mandrill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PortChaw/bower-mandrill-api-js.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "mandrill"
+  ],
+  "author": "bartimaeus",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PortChaw/bower-mandrill-api-js/issues"
+  },
+  "homepage": "https://github.com/PortChaw/bower-mandrill-api-js#readme"
+}
